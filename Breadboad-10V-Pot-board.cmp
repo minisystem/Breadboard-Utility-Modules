@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-04-09 12:45:11 PM
+Cmp-Mod V01 Created by Cvpcb (2014-09-02 BZR 5112)-product   date = 2015-04-10 10:17:46 PM
 
 BeginCmp
 TimeStamp = /55269079;
@@ -43,10 +43,38 @@ IdModule  = MyModules:SM0603-C-JRL;
 EndCmp
 
 BeginCmp
+TimeStamp = /55288442;
+Reference = J1;
+ValeurCmp = JACK_MONO_SW;
+IdModule  = MyModules:PJ-301B-JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /5528865E;
+Reference = J2;
+ValeurCmp = JACK_MONO_SW;
+IdModule  = MyModules:PJ-301B-JACK;
+EndCmp
+
+BeginCmp
 TimeStamp = /5526F9C8;
 Reference = P1;
 ValeurCmp = DIP14;
 IdModule  = Housings_DIP:DIP-14__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5526C24C;
+Reference = P2;
+ValeurCmp = DIP14;
+IdModule  = Housings_DIP:DIP-14__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5528909E;
+Reference = P3;
+ValeurCmp = DIP_6;
+IdModule  = Housings_DIP:DIP-6__300_ELL;
 EndCmp
 
 BeginCmp
